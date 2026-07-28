@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sriganesh2003/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sriganesh2003/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/sriganesh2003/leetcode/tree/master/1025-divisor-game) |
 | [2383-add-two-integers](https://github.com/sriganesh2003/leetcode/tree/master/2383-add-two-integers) |
@@ -32,8 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriganesh2003/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sriganesh2003/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriganesh2003/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sriganesh2003/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
